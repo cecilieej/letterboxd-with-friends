@@ -2,22 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom cozy theme tweaks */
 body {
   @apply bg-gray-900 text-gray-100;
 }
 
 
 
-/**:root {
-  --bg: #0f1115;          /* deep charcoal
-  --panel: #121418;       /* slightly lighter
-  --muted: #9aa4b2;       /* muted text
-  --accent: #d9a94a;      /* warm gold
-  --accent-2: #8bd3c7;    /* teal for small accents /*
+:root {
+  --bg: #0f1115;          /* deep charcoal */
+  --panel: #121418;       /* slightly lighter */
+  --muted: #9aa4b2;       /* muted text */
+  --accent: #d9a94a;      /* warm gold */
+  --accent-2: #8bd3c7;    /* teal for small accents */
   --card: #15171b;
   --glass: rgba(255,255,255,0.03);
-  --radius: 12px;
 }
 
 body {
@@ -50,4 +48,3 @@ body {
   border-radius: 8px;
   cursor: pointer;
 }
-**/

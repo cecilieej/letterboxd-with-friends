@@ -5,7 +5,7 @@ export default function Help() {
 
       {/* Quick Start */}
       <section className="bg-gray-800 p-6 rounded-xl border border-gray-700 mb-8">
-        <h2 className="text-2xl font-semibold mb-4">🚀 Quick Start Guide</h2>
+        <h2 className="text-2xl font-semibold mb-4">Quick Start Guide</h2>
         
         <div className="space-y-6">
           <div>
@@ -52,7 +52,7 @@ export default function Help() {
 
       {/* FAQ */}
       <section className="space-y-6">
-        <h2 className="text-2xl font-semibold mb-4">❓ Frequently Asked Questions</h2>
+        <h2 className="text-2xl font-semibold mb-4">Frequently Asked Questions</h2>
 
         <div className="bg-gray-800 p-6 rounded-xl border border-gray-700">
           <h3 className="font-semibold mb-2">Is my data safe?</h3>

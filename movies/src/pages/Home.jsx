@@ -9,7 +9,7 @@ export default function Home() {
         Welcome to Cece's Letterboxd Friends
       </h1>
       <p className="text-gray-400 mb-6">
-        Upload your Letterboxd data and compare your watched lists and watchlists with friends.
+        This my little Letterboxd site for my friends. You can upload your Letterboxd data and compare your watched lists and watchlists with others that have also uploaded it here.
       </p>
 
       {!user && (

@@ -32,7 +32,8 @@ export default function Home() {
             Cece's Letterboxd Friends
           </h1>
           <p className="text-xl text-gray-300 mb-8">
-            Connect with friends through movies. Compare watchlists, discover what you have in common, and find your next film together.
+            Welcome to my very own Letterboxd site! This is mostly for private use between my friends and I. Here, you can compare watchlists,
+            discover what you have in common with other users, and find out what film to watch together next.
           </p>
         </div>
 
@@ -40,7 +41,7 @@ export default function Home() {
           onClick={handleLogin}
           className="bg-gradient-to-r from-blue-600 to-purple-600 px-8 py-4 rounded-xl text-white text-lg font-semibold hover:from-blue-700 hover:to-purple-700 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
         >
-          🎬 Get Started with Google
+          Get Started Here
         </button>
 
         {/* Features */}
@@ -49,7 +50,7 @@ export default function Home() {
             <div className="text-4xl mb-4">📊</div>
             <h3 className="text-xl font-semibold mb-2">Compare Lists</h3>
             <p className="text-gray-400">
-              See what movies you and your friends have both watched, rated, and loved.
+              See what movies Cece's friends and other users have both watched, rated, and loved.
             </p>
           </div>
 
@@ -57,7 +58,7 @@ export default function Home() {
             <div className="text-4xl mb-4">🎯</div>
             <h3 className="text-xl font-semibold mb-2">Find Matches</h3>
             <p className="text-gray-400">
-              Discover your movie taste compatibility with friends and find perfect watch partners.
+              Discover your movie taste compatibility with friends and find out what you both want to watch next.
             </p>
           </div>
 
